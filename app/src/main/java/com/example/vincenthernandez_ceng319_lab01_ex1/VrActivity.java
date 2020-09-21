@@ -22,22 +22,6 @@ public class VrActivity extends Activity {
     }
 
     //
-    public void onRestart() {
-        super.onRestart();
-        Log.d(tag, "In the onRestart() event");
-    }
-
-    public void onResume() {
-        super.onResume();
-        Log.d(tag, "In the onResume() event");
-    }
-
-    public void onPause() {
-        super.onPause();
-        Log.d(tag, "In the onPause() event");
-    }
-
-    //
     public void onStop() {
         super.onStop();
         Log.d(tag, "In the onStop() event");

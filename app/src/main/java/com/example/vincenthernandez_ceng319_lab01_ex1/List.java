@@ -13,7 +13,7 @@ public class List extends ListFragment {
     Intent i;
 
     String[]  listfragment = {
-            "AiActivity",
+            "\n\nAiActivity",
             "VrActivity"
     };
 
